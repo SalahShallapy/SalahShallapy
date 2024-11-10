@@ -47,6 +47,3 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&color=30:7812f8,100:00D8FF&height=80&section=footer"/>
 </p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salah-shalapy-025803336)
-
-
