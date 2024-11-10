@@ -3,7 +3,7 @@
 <div align="center">
   # About Me:
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=9f9aa4&center=true&vCenter=true&width=435&lines=Front+End+Developer)
-  <br> Crafting Seamless User Experiences and Elevating User Experiences with React, JavaScript, Full-Stack Integrations & Beyond to Bring the Web Experiences to Life
+   Crafting Seamless User Experiences and Elevating User Experiences with React, JavaScript, Full-Stack Integrations & Beyond to Bring the Web Experiences to Life
 
   ## 🔗 Socials :
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salahshalapy999@gmail.com)
