@@ -6,10 +6,10 @@
   <!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=9f9aa4&center=true&vCenter=true&width=435&lines=Front+End+Developer) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=9F9AA4&center=true&vCenter=true&width=435&lines=Front+End+Developer" alt="Typing SVG">
   <br>
-   <p style="font-weight: bold; font-size: 5em;">
-  Crafting and Elevating Seamless User Experiences with React, JavaScript, Full-Stack Integrations & Beyond to Bring the Web Experiences to Life
+   <p style="font-size: 32px;">
+  <b>Crafting and Elevating Seamless User Experiences with React, JavaScript, Full-Stack Integrations & Beyond to Bring the Web Experiences to Life</b>
   </p>
-  
+
   ## 🔗 Socials :
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salahshalapy999@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salah-shalapy-025803336)
