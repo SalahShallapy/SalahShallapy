@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=C0C0C0&center=true&vCenter=true&width=435&lines=Front+End+Developer)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=9f9aa4&center=true&vCenter=true&width=435&lines=Front+End+Developer)
 
   # About Me:
   Front-End Developer <br> Crafting Seamless User Experiences and Elevating User Experiences with React, JavaScript, Full-Stack Integrations & Beyond to Bring the Web Experiences to Life
@@ -24,3 +24,8 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahshallapy&show_icons=true&locale=en&layout=compact&theme=dark" alt="salahshallapy" />
+
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=30:7812f8,100:00D8FF&height=80&section=footer"/>
+</p>
+
