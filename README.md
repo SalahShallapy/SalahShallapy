@@ -1,7 +1,9 @@
 <h1 align="center">Greetings, I'm Shalapy</h1>
 
-<!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=D3D3D3&center=true&vCenter=true&width=435&lines=Front+End+Developer)-->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=D3D3D3&center=true&vCenter=true&width=435&lines=Front+End+Developer)
 
+#  About Me:
+Front-End Developer <br> Crafting Seamless User Experiences and Elevating User Experiences with React, JavaScript, Full-Stack Integrations & Beyond to Bring the Web Experiences to Life
 
 ##  Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salahshalapy999@gmail.com)
