@@ -1,13 +1,18 @@
 <h1 align="center">Greetings, I'm Shalapy</h1>
 
-![Typing SVG align="center"> ](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=D3D3D3&center=true&vCenter=true&width=435&lines=Front+End+Developer)
+<div align="center">
 
-#  About Me:
-Front-End Developer <br> Crafting Seamless User Experiences and Elevating User Experiences with React, JavaScript, Full-Stack Integrations & Beyond to Bring the Web Experiences to Life
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=D3D3D3&center=true&vCenter=true&width=435&lines=Front+End+Developer)
 
-##  Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salahshalapy999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salah-shalapy-025803336)
+  # About Me:
+  Front-End Developer <br> Crafting Seamless User Experiences and Elevating User Experiences with React, JavaScript, Full-Stack Integrations & Beyond to Bring the Web Experiences to Life
+
+  ## Socials:
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salahshalapy999@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salah-shalapy-025803336)
+
+</div>
+
 # Languages :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 # Libraries / frameworks :
