@@ -1,4 +1,4 @@
-<h1 align="center" style="text-decoration: none;">Greetings, I'm Shalapy</h1>
+<h1 align="center" style="border-bottom: none;">Greetings, I'm Shalapy</h1>
 
 <div align="center">
 
