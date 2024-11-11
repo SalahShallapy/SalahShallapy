@@ -1,9 +1,5 @@
 <h1 align="center" style="border-bottom: none;">Greetings, I'm Shalapy</h1>
 
-<div align="center" style="border-bottom: none;">
-  <h1 style="margin: 0;">Greetings, I'm Shalapy</h1>
-</div>
-
 <div align="center">
 
   ##  In A Nutshell :
