@@ -1,6 +1,8 @@
- <h1 align="center">Greetings, I'm Shalapy</h1> 
 
 <div align="center">
+
+ <h1 align="center">Greetings, I'm Shalapy</h1> 
+
  
   ## 🔗 Let's Collab :
  <!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=9f9aa4&center=true&vCenter=true&width=435&lines=Front+End+Developer) -->
