@@ -14,7 +14,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salahshallapy/)
 
 </div>
-<!--https://img.shields.io/badge/ubuntu-DD1F13?style=for-the-badge&logo=ubuntu&logoColor=white 
+<!--https://img.shields.io/badge/ubuntu-DD1F13?style=for-the-badge&logo=ubuntu&logoColor=white -->
 
 # Languages :
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
