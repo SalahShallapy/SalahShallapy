@@ -31,7 +31,6 @@
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/docs/latest/api/)
 [![mongoose](https://img.shields.io/badge/mongoose-%23E34F26.svg?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/docs/)
 [![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)](https://leafletjs.com/)
-[![mapbox](https://img.shields.io/badge/mapbox-%23323330?style=for-the-badge&logo=mapbox&logoColor=white)](https://www.mapbox.com/)
 # Technologies / Tools :
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
@@ -42,6 +41,7 @@
 [![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
 [![passportjs](https://img.shields.io/badge/passport-%2320232a.svg?style=for-the-badge&logo=passport&logoColor=%2361DAFB)](https://www.passportjs.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![mapbox](https://img.shields.io/badge/mapbox-%23323330?style=for-the-badge&logo=mapbox&logoColor=white)](https://www.mapbox.com/)
 # Databases :
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
