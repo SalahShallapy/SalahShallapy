@@ -48,7 +48,7 @@
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahshallapy&show_icons=true&locale=en&layout=compact&theme=dark" alt="salahshallapy" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahshallapy&show_icons=true&locale=en&layout=compact&theme=dark" alt="salahshallapy" />-->
 
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=30:7812f8,100:00D8FF&height=80&section=footer"/>
