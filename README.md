@@ -45,7 +45,7 @@
 [![passportjs](https://img.shields.io/badge/passport-%2320232a.svg?style=for-the-badge&logo=passport&logoColor=%2361DAFB)](https://www.passportjs.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![mapbox](https://img.shields.io/badge/mapbox-%23323330?style=for-the-badge&logo=mapbox&logoColor=white)](https://www.mapbox.com/)
-[![Framer Motion]([https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase](https://img.shields.io/badge/Framer%20Motion-%23FFB300.svg?style=for-the-badge&logo=framer))](https://motion.dev/)
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23FFB300.svg?style=for-the-badge&logo=framer)](https://motion.dev/)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 # Databases :
