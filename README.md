@@ -6,7 +6,7 @@
  <!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=9f9aa4&center=true&vCenter=true&width=435&lines=Front+End+Developer) --> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=9F9AA4&center=true&vCenter=true&width=435&lines=Front+End+Developer" alt="Typing SVG">
    <h3 style="font-size: 32px;">
-     Crafting and Elevating Seamless User Experiences with React, JavaScript, Full-Stack Integrations & More Beyond to Bring the Web Experiences to Life .
+     Crafting and Elevating Seamless User Experiences with React, JavaScript, Full-Stack Integrations & More Beyond to Bring the Web Experiences to Life.
   </h3>
 
   ## 🔗 Let's Collab :
